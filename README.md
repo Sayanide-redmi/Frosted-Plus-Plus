@@ -1,4 +1,5 @@
 # ❄️ Frosted++
+### -# By Sayanide.
 
 A beautiful fork of the **Midnight Vencord** theme with fresh frosted glass overlays and enhanced customization.
 
